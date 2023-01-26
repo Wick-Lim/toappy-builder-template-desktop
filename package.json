@@ -1,6 +1,6 @@
 {
-  "name": "toappy-builder-template",
-  "productName": "toappy-builder-template",
+  "name": "toappy-builder-template-desktop",
+  "productName": "toappy-builder-template-desktop",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": "build/index.js",
