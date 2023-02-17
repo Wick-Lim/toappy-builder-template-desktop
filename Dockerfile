@@ -7,5 +7,3 @@ COPY ./template/ /app/
 ENV NODE_ENV=production
 RUN npm i -g pnpm
 RUN pnpm install
-
-STOPSIGNAL SIGQUIT

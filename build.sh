@@ -1,0 +1,1 @@
+# run electron build on bash
