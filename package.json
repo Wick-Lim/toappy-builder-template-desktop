@@ -1,0 +1,23 @@
+{
+  "name": "toappy-builder-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wick-Lim/toappy-builder-template-desktop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wick-Lim/toappy-builder-template-desktop/issues"
+  },
+  "homepage": "https://github.com/Wick-Lim/toappy-builder-template-desktop#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1319.0",
+    "firebase-admin": "^11.5.0"
+  }
+}
