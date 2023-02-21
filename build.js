@@ -30,6 +30,8 @@ const buildId = process.env['BUILD_ID'];
 
     // upload app to s3
 
+    // flag build as done on firebase
+
     // stop container
     await ecs.stopTask({ task }).promise();
 })();
